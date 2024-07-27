@@ -1,5 +1,5 @@
 # HCP2
-Data extraction code for follow-up Human Conditioned Punishment studies (
+Data extraction code for follow-up Human Conditioned Punishment studies (Jean-Richard-dit-Bressel et al., 2023, PNAS [https://www.pnas.org/doi/full/10.1073/pnas.2221634120])
 
 MATLAB:
 1.	Phil_HCPextract_v6.m
